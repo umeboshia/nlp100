@@ -8,6 +8,8 @@ https://nlp100.github.io/ja/
 # 動機
 https://fujifilm.i-web.jpn.com/2024/op/internship/ffnlpac.html#message
 
+https://fujifilm.train.tracks.run/
+
 
 # 知見
 copilotで解ける
